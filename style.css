@@ -3,7 +3,10 @@
     padding: 0;
 
 }
-
+html{
+    overflow-y: scroll;
+overflow-x: hidden;
+}
 .box {
     background-image: url("ba.jpg");
     background-size: cover;
